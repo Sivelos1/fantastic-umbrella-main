@@ -21,6 +21,14 @@
 
   To install the project, download the repository. Navigate to where you installed the project in your command line, and use the command npm install to install the projects dependencies.
 
+  You may have to create a .env file. Do so, and place it at the root of this project. In the .env file, create the follow variables:
+
+  - DB_NAME: 'ecommerce_db'
+  
+  - DB_USER: (Your SQL username here)
+
+  - DB_PW: (Your SQL Password here)
+
   ## Usage
 
   [Please refer to this helpful Youtube video!](https://www.youtube.com/watch?v=PWY9R40njuU)
